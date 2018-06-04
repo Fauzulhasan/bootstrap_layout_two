@@ -1,0 +1,96 @@
+/*header start*/
+header{
+    min-height: 150px;
+    background-color: blueviolet;
+}
+.common_head{
+    min-height: 130px;
+    background-color: rosybrown;
+    margin: 10px 0 10px 0;
+}
+.common_style{
+    min-height: 50px;
+    margin: 5px 0 5px 0;
+    background-color: silver;
+}
+/*header end*/
+
+/*contant start*/
+
+.contant{
+    margin-top: 10px;
+    min-height: 600px;
+}
+.wrapper_left{
+    min-height: 600px;
+    background-color: blueviolet;
+}
+.wrapper{
+    min-height: 600px;
+    background-color: blueviolet;
+}
+.wrapper_one{
+     min-height: 260px;
+     background-color: silver;
+     margin: 10px 0 10px 0;
+}
+.common_wrapper{
+    min-height: 50px;
+    background-color: silver;
+    margin: 10px 0 10px 0;
+}
+.wrapper_two{
+    min-height: 220px;
+    background-color: silver;
+    margin: 10px 0 10px 0;
+}
+.middle_one{
+    min-height: 250px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+.middle_two{
+    min-height: 100px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+.middle_three{
+    min-height: 60px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+.middle_four{
+    min-height: 100px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+.right_one{
+    min-height: 100px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+.right_two{
+    min-height: 300px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+.right_three{
+    min-height: 150px;
+    margin: 10px 0 10px 0;
+    background-color: silver;
+}
+
+/*contant end*/
+
+/*footer start*/
+footer{
+    margin-top: 10px;
+    min-height: 100px;
+    background-color: blueviolet;
+}
+.footer_wrapper{
+    min-height: 80px;
+    background-color: rosybrown;
+    margin: 10px 0 10px 0;
+}
+/*footer end*/
